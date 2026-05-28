@@ -1,0 +1,26 @@
+body{
+    background-color:blue;
+}
+h1{
+    color:rgb(255, 0, 0);
+    font-size: 60px;
+    text-align: center;
+}
+p{
+color: rgb(255, 0, 0);
+font-size: 30px;
+text-align: center;
+}
+img{
+    width: 20%;
+    margin-left: 750px;
+    border: 10px double red;
+}
+.imghtml{
+    width: 10%;
+    margin-left: 500px;
+    border:skyblue solid
+}
+button{
+    color: rgb(255, 0, 0);
+}
