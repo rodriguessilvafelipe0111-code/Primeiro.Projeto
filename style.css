@@ -20,11 +20,36 @@ img {
     border: 10px double red;
 }
 
+
+
 .imghtml {
     width: 10%;
-    margin-left: 500px;
+    margin-left: 350px;
     border: skyblue solid
 }
-li{
+
+li {
     color:red;
+}
+
+button {
+    background-color: crimson;
+    margin-left: 450px;
+}
+
+.img_cabecalho{
+    height: 100px;
+    width: 100px;
+    transition: 0.3s;
+    margin-left: 10px;
+}
+
+.img_cabecalho:hover{
+    opacity: 0.8;
+}
+
+header{
+    display: flex;
+    background-color: rgb(0, 83, 4);
+    padding: 10px;
 }
